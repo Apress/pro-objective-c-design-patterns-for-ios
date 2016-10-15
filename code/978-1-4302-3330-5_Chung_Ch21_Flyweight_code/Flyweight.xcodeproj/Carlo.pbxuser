@@ -1,0 +1,192 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* FlyweightAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2782, 1558}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1614}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Flyweight */ = {
+		activeExec = 0;
+		executables = (
+			23DB031A12A3212000DB21D1 /* Flyweight */,
+		);
+	};
+	234C39D012A41AD6009081EF /* FlyweightView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 853}}";
+			sepNavSelRange = "{161, 0}";
+			sepNavVisRange = "{0, 294}";
+		};
+	};
+	234C39D112A41AD6009081EF /* FlyweightView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 855}}";
+			sepNavSelRange = "{136, 0}";
+			sepNavVisRange = "{0, 815}";
+		};
+	};
+	234C3D0A12A45405009081EF /* FlowerFactory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 853}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 449}";
+		};
+	};
+	234C3D0B12A45405009081EF /* FlowerFactory.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 1463}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{3, 1088}";
+		};
+	};
+	234C3D0D12A4547C009081EF /* FlowerView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 853}}";
+			sepNavSelRange = "{165, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	234C3D0E12A4547C009081EF /* FlowerView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 853}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	23C0D1B7131E9EAD0080FCD8 /* ExtrinsicFlowerState.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 853}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 223}";
+		};
+	};
+	23DB031A12A3212000DB21D1 /* Flyweight */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Flyweight;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23DB032612A3214000DB21D1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23DB032712A3214000DB21D1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	28D7ACF60DDB3853001CB0EB /* FlyweightViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 853}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FlyweightViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 1444}}";
+			sepNavSelRange = "{475, 0}";
+			sepNavVisRange = "{0, 1410}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23DB031A12A3212000DB21D1 /* Flyweight */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Flyweight */;
+		addToTargets = (
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 23DB032712A3214000DB21D1 /* Code sense */;
+		executables = (
+			23DB031A12A3212000DB21D1 /* Flyweight */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					942,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321893254;
+			PBXWorkspaceStateSaveDate = 321893254;
+		};
+		sourceControlManager = 23DB032612A3214000DB21D1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

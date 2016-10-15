@@ -1,0 +1,197 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BridgeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 754}}";
+			sepNavSelRange = "{111, 0}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BridgeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1596}}";
+			sepNavSelRange = "{100, 11}";
+			sepNavVisRange = "{0, 1204}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Bridge */ = {
+		activeExec = 0;
+		executables = (
+			23A0CC3112A0950200850698 /* Bridge */,
+		);
+	};
+	23A0CC3112A0950200850698 /* Bridge */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bridge;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23A0CC4012A0951300850698 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23A0CC4112A0951300850698 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23A0CC4412A0958700850698 /* ConsoleEmulator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{134, 0}";
+			sepNavVisRange = "{0, 378}";
+		};
+	};
+	23A0CC4512A0958700850698 /* ConsoleEmulator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {500, 570}}";
+			sepNavSelRange = "{458, 0}";
+			sepNavVisRange = "{56, 140}";
+		};
+	};
+	23A0CC4912A095FD00850698 /* ConsoleController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{453, 0}";
+			sepNavVisRange = "{0, 461}";
+		};
+	};
+	23A0CC4A12A095FD00850698 /* ConsoleController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{377, 0}";
+			sepNavVisRange = "{0, 378}";
+		};
+	};
+	23A0CC4C12A0972700850698 /* ConsoleCommands.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{356, 0}";
+			sepNavVisRange = "{0, 363}";
+		};
+	};
+	23A0CC5E12A0992C00850698 /* GameBoyEmulator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{0, 433}";
+		};
+	};
+	23A0CC5F12A0992C00850698 /* GameBoyEmulator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{346, 0}";
+			sepNavVisRange = "{0, 388}";
+		};
+	};
+	23A0CC6112A0998200850698 /* GameGearEmulator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{435, 0}";
+			sepNavVisRange = "{0, 435}";
+		};
+	};
+	23A0CC6212A0998200850698 /* GameGearEmulator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 392}";
+		};
+	};
+	23A0CC7012A09F4100850698 /* TouchConsoleController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 750}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	23A0CC7112A09F4100850698 /* TouchConsoleController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 1026}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{3, 569}";
+		};
+	};
+	28D7ACF60DDB3853001CB0EB /* BridgeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 754}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BridgeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 1235}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 814}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23A0CC3112A0950200850698 /* Bridge */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bridge */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Bridge */,
+		);
+		codeSenseManager = 23A0CC4112A0951300850698 /* Code sense */;
+		executables = (
+			23A0CC3112A0950200850698 /* Bridge */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					672,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321893209;
+			PBXWorkspaceStateSaveDate = 321893209;
+		};
+		sourceControlManager = 23A0CC4012A0951300850698 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

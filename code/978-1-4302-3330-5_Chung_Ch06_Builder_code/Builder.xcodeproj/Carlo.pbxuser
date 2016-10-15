@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Builder */ = {
+		activeExec = 0;
+		executables = (
+			23A0CCA012A1925600850698 /* Builder */,
+		);
+	};
+	23A0CCA012A1925600850698 /* Builder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Builder;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23A0CCA612A1926300850698 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23A0CCA712A1926300850698 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23A0CCA812A1927200850698 /* CharacterBuilder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 698}}";
+			sepNavSelRange = "{389, 0}";
+			sepNavVisRange = "{0, 649}";
+		};
+	};
+	23A0CCA912A1927200850698 /* CharacterBuilder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 1216}}";
+			sepNavSelRange = "{865, 0}";
+			sepNavVisRange = "{322, 647}";
+			sepNavWindowFrame = "{{15, 95}, {1379, 1078}}";
+		};
+	};
+	23A0CCAD12A1938000850698 /* Character.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 698}}";
+			sepNavSelRange = "{347, 0}";
+			sepNavVisRange = "{0, 691}";
+		};
+	};
+	23A0CCAE12A1938000850698 /* Character.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 741}}";
+			sepNavSelRange = "{325, 0}";
+			sepNavVisRange = "{0, 645}";
+		};
+	};
+	23A0CCBC12A1961300850698 /* StandardCharacterBuilder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 698}}";
+			sepNavSelRange = "{180, 421}";
+			sepNavVisRange = "{0, 602}";
+		};
+	};
+	23A0CCBD12A1961300850698 /* StandardCharacterBuilder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 1444}}";
+			sepNavSelRange = "{1839, 0}";
+			sepNavVisRange = "{0, 861}";
+		};
+	};
+	23A0CCCA12A1992600850698 /* ChasingGame.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 698}}";
+			sepNavSelRange = "{369, 0}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	23A0CCCB12A1992600850698 /* ChasingGame.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 836}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{21, 868}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BuilderViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1406}}";
+			sepNavSelRange = "{842, 0}";
+			sepNavVisRange = "{0, 835}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23A0CCA012A1925600850698 /* Builder */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Builder */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Builder */,
+		);
+		codeSenseManager = 23A0CCA712A1926300850698 /* Code sense */;
+		executables = (
+			23A0CCA012A1925600850698 /* Builder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					526,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321893194;
+			PBXWorkspaceStateSaveDate = 321893194;
+		};
+		sourceControlManager = 23A0CCA612A1926300850698 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

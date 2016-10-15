@@ -1,0 +1,360 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FlyweightAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 464}}";
+			sepNavSelRange = "{270, 0}";
+			sepNavVisRange = "{0, 486}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FlyweightAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1951, 1157}}";
+			sepNavSelRange = "{2145, 0}";
+			sepNavVisRange = "{0, 1193}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Flyweight */ = {
+		activeExec = 0;
+		executables = (
+			8BB449FC12CA6CBD00A88975 /* Flyweight */,
+		);
+	};
+	234C39D012A41AD6009081EF /* FlyweightView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 589}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 530}";
+		};
+	};
+	234C39D112A41AD6009081EF /* FlyweightView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 1690}}";
+			sepNavSelRange = "{1372, 0}";
+			sepNavVisRange = "{183, 1111}";
+		};
+	};
+	234C3CB812A44BD4009081EF /* EightPetalFlower.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 589}}";
+			sepNavSelRange = "{369, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	234C3CB912A44BD4009081EF /* EightPetalFlower.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 767}}";
+			sepNavSelRange = "{1113, 0}";
+			sepNavVisRange = "{204, 1165}";
+		};
+	};
+	234C3D0A12A45405009081EF /* FlowerFactory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 589}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{0, 449}";
+		};
+	};
+	234C3D0B12A45405009081EF /* FlowerFactory.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 715}}";
+			sepNavSelRange = "{548, 0}";
+			sepNavVisRange = "{0, 1041}";
+		};
+	};
+	234C3D0D12A4547C009081EF /* Flower.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 585}}";
+			sepNavSelRange = "{186, 11}";
+			sepNavVisRange = "{0, 344}";
+		};
+	};
+	234C3D0E12A4547C009081EF /* Flower.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 585}}";
+			sepNavSelRange = "{148, 0}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	234C3DB312A45DD2009081EF /* FourPetalFlower.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 589}}";
+			sepNavSelRange = "{377, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	234C3DB412A45DD2009081EF /* FourPetalFlower.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 832}}";
+			sepNavSelRange = "{46, 0}";
+			sepNavVisRange = "{0, 996}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	28D7ACF60DDB3853001CB0EB /* FlyweightViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {550, 464}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FlyweightViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 988}}";
+			sepNavSelRange = "{666, 0}";
+			sepNavVisRange = "{47, 1451}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8BB449FC12CA6CBD00A88975 /* Flyweight */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Flyweight */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Flyweight */,
+		);
+		codeSenseManager = 8BB44A0B12CA6CD700A88975 /* Code sense */;
+		executables = (
+			8BB449FC12CA6CBD00A88975 /* Flyweight */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					510,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320763645;
+			PBXWorkspaceStateSaveDate = 320763645;
+		};
+		perUserProjectItems = {
+			8B4779A3131E806400E6AF1B /* PBXTextBookmark */ = 8B4779A3131E806400E6AF1B /* PBXTextBookmark */;
+			8B4779A4131E806400E6AF1B /* PBXTextBookmark */ = 8B4779A4131E806400E6AF1B /* PBXTextBookmark */;
+			8B4779A5131E806400E6AF1B /* PBXTextBookmark */ = 8B4779A5131E806400E6AF1B /* PBXTextBookmark */;
+			8B4779A6131E806400E6AF1B /* PBXTextBookmark */ = 8B4779A6131E806400E6AF1B /* PBXTextBookmark */;
+			8B4779A7131E806400E6AF1B /* PBXTextBookmark */ = 8B4779A7131E806400E6AF1B /* PBXTextBookmark */;
+			8B4779A8131E806400E6AF1B /* PBXTextBookmark */ = 8B4779A8131E806400E6AF1B /* PBXTextBookmark */;
+			8BB44A3D12CA879600A88975 /* PBXTextBookmark */ = 8BB44A3D12CA879600A88975 /* PBXTextBookmark */;
+			8BB44A3E12CA879600A88975 /* PBXTextBookmark */ = 8BB44A3E12CA879600A88975 /* PBXTextBookmark */;
+			8BB44A3F12CA879600A88975 /* PBXTextBookmark */ = 8BB44A3F12CA879600A88975 /* PBXTextBookmark */;
+			8BC63D35130199D700C7BC16 /* PBXTextBookmark */ = 8BC63D35130199D700C7BC16 /* PBXTextBookmark */;
+			8BC63D37130199D700C7BC16 /* PBXTextBookmark */ = 8BC63D37130199D700C7BC16 /* PBXTextBookmark */;
+			8BC63D38130199D700C7BC16 /* PBXTextBookmark */ = 8BC63D38130199D700C7BC16 /* PBXTextBookmark */;
+			8BC63D3B130199D700C7BC16 /* PBXTextBookmark */ = 8BC63D3B130199D700C7BC16 /* PBXTextBookmark */;
+			8BC63D3D130199D700C7BC16 /* PBXTextBookmark */ = 8BC63D3D130199D700C7BC16 /* PBXTextBookmark */;
+			8BC63D3E130199D700C7BC16 /* PBXTextBookmark */ = 8BC63D3E130199D700C7BC16 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8BB44A0A12CA6CD700A88975 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8B4779A3131E806400E6AF1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3D0E12A4547C009081EF /* Flower.m */;
+		name = "Flower.m: 9";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+	8B4779A4131E806400E6AF1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FlyweightViewController.m */;
+		name = "FlyweightViewController.m: 25";
+		rLen = 0;
+		rLoc = 666;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 47;
+	};
+	8B4779A5131E806400E6AF1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C39D112A41AD6009081EF /* FlyweightView.m */;
+		name = "FlyweightView.m: 60";
+		rLen = 0;
+		rLoc = 1372;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 183;
+	};
+	8B4779A6131E806400E6AF1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3D0D12A4547C009081EF /* Flower.h */;
+		name = "Flower.h: 12";
+		rLen = 11;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 0;
+	};
+	8B4779A7131E806400E6AF1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3DB412A45DD2009081EF /* FourPetalFlower.m */;
+		name = "FourPetalFlower.m: 15";
+		rLen = 0;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 1225;
+		vrLoc = 0;
+	};
+	8B4779A8131E806400E6AF1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3DB412A45DD2009081EF /* FourPetalFlower.m */;
+		name = "FourPetalFlower.m: 5";
+		rLen = 0;
+		rLoc = 46;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 0;
+	};
+	8BB449FC12CA6CBD00A88975 /* Flyweight */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Flyweight;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8BB44A0A12CA6CD700A88975 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8BB44A0B12CA6CD700A88975 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8BB44A3D12CA879600A88975 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlyweightAppDelegate.m */;
+		name = "FlyweightAppDelegate.m: 63";
+		rLen = 0;
+		rLoc = 2145;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 0;
+	};
+	8BB44A3E12CA879600A88975 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FlyweightAppDelegate.h */;
+		name = "FlyweightAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	8BB44A3F12CA879600A88975 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FlyweightViewController.h */;
+		name = "FlyweightViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	8BC63D35130199D700C7BC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3D0B12A45405009081EF /* FlowerFactory.m */;
+		name = "FlowerFactory.m: 28";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 0;
+	};
+	8BC63D37130199D700C7BC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C39D012A41AD6009081EF /* FlyweightView.h */;
+		name = "FlyweightView.h: 20";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
+	};
+	8BC63D38130199D700C7BC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3CB812A44BD4009081EF /* EightPetalFlower.h */;
+		name = "EightPetalFlower.h: 19";
+		rLen = 0;
+		rLoc = 369;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	8BC63D3B130199D700C7BC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3DB312A45DD2009081EF /* FourPetalFlower.h */;
+		name = "FourPetalFlower.h: 22";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	8BC63D3D130199D700C7BC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3CB912A44BD4009081EF /* EightPetalFlower.m */;
+		name = "EightPetalFlower.m: 45";
+		rLen = 0;
+		rLoc = 1113;
+		rType = 0;
+		vrLen = 1165;
+		vrLoc = 204;
+	};
+	8BC63D3E130199D700C7BC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 234C3D0A12A45405009081EF /* FlowerFactory.h */;
+		name = "FlowerFactory.h: 16";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+}

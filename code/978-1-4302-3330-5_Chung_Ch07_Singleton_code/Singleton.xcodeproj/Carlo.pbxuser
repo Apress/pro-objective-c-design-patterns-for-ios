@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SingletonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2782, 1672}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 968}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Singleton */ = {
+		activeExec = 0;
+		executables = (
+			234EF8AF11C1E4F100BD3EA3 /* Singleton */,
+		);
+	};
+	234EF8AF11C1E4F100BD3EA3 /* Singleton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Singleton;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	234EF8BE11C1E50900BD3EA3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	234EF8BF11C1E50900BD3EA3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	234EF8C111C1E63100BD3EA3 /* Singleton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 677}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	234EF8C211C1E63100BD3EA3 /* Singleton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 1197}}";
+			sepNavSelRange = "{231, 0}";
+			sepNavVisRange = "{3, 547}";
+		};
+	};
+	234EF8C811C1F29600BD3EA3 /* Go4Singleton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 677}}";
+			sepNavSelRange = "{137, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+	234EF8CB11C1F30000BD3EA3 /* Go4Singleton.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 677}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 234EF8AF11C1E4F100BD3EA3 /* Singleton */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Singleton */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Singleton */,
+		);
+		codeSenseManager = 234EF8BF11C1E50900BD3EA3 /* Code sense */;
+		executables = (
+			234EF8AF11C1E4F100BD3EA3 /* Singleton */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					621,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321893202;
+			PBXWorkspaceStateSaveDate = 321893202;
+		};
+		sourceControlManager = 234EF8BE11C1E50900BD3EA3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8BE82E7D130D21390036654E /* MySingleton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 677}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 239}";
+		};
+	};
+	8BE82E7E130D21390036654E /* MySingleton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 677}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 298}";
+		};
+	};
+}

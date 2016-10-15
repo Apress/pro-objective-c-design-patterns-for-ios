@@ -1,0 +1,133 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Facade */ = {
+		activeExec = 0;
+		executables = (
+			2384A3CE1291C1BB0069B279 /* Facade */,
+		);
+	};
+	2384A3CE1291C1BB0069B279 /* Facade */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Facade;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2384A3DD1291C1C20069B279 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2384A3DE1291C1C20069B279 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2384A3E11291C9780069B279 /* CabDriver.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 700}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	2384A3E21291C9780069B279 /* CabDriver.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 779}}";
+			sepNavSelRange = "{219, 0}";
+			sepNavVisRange = "{0, 650}";
+		};
+	};
+	2384A3E71291CAA80069B279 /* Car.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 700}}";
+			sepNavSelRange = "{164, 0}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	2384A3E81291CAA80069B279 /* Car.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 760}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	2384A3EA1291CB790069B279 /* Taximeter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 700}}";
+			sepNavSelRange = "{172, 70}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	2384A3EB1291CB790069B279 /* Taximeter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 700}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2384A3CE1291C1BB0069B279 /* Facade */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Facade */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Facade */,
+		);
+		codeSenseManager = 2384A3DE1291C1C20069B279 /* Code sense */;
+		executables = (
+			2384A3CE1291C1BB0069B279 /* Facade */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					370,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321893217;
+			PBXWorkspaceStateSaveDate = 321893217;
+		};
+		sourceControlManager = 2384A3DD1291C1C20069B279 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
